@@ -5,4 +5,4 @@ b = 4
 soma = Soma()
 resultado = soma.soma(a, b)
 
-print('Resultado da soma = ' + str(resultado))
+print('Resultado da soma entre '+ a +' + '+ b + '= ' + str(resultado))
